@@ -6,6 +6,7 @@ sans couche HAL — configuration directe des registres.
 ## 🛠️ Matériel
 - STM32 Nucleo-L152RE (ARM Cortex-M3)
 - LED intégrée PA5 (LD2)
+- LED Cablée sur D13
 
 ## ⚙️ Configuration Timer
 - PSC = 1999 → 1 tick = 1ms
